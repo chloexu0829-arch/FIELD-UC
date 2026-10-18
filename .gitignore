@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+data/*
+!data/README.md
+results/*
+!results/field47_signature.csv
+!results/original_module.csv
